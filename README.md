@@ -18,7 +18,7 @@ INSTALLATION PROCEDURE
 
 * If you use this code to publish scientific results please include the following citation: 
 
-D. Alf\`e, "PHON: A program to calculate phonons using the small displacement method",
+D. Alfe`, "PHON: A program to calculate phonons using the small displacement method",
 Computer Physics Communications, Vol. 180, No. 12, pp. 2622-2633 (2009) 
 doi:10.1016/j.cpc.2009.03.010; Program available at http://chianti.geol.ucl.ac.uk/~dario
 
